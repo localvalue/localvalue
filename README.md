@@ -1,6 +1,6 @@
-## Hi, I'm Rob Lewis 👋
+## Hi, I'm Rob Lewis
 
-**AI Product Manager & Consultant.** Founder of [Local Value Marketing](https://roblewis.com). Three decades of senior product leadership (since 1994). Now applied to shipping production AI applications and helping SMB and mid-market businesses adopt AI.
+**AI Product Manager & Consultant.** Founder of [Local Value LLC](https://localvalue.com). Three decades of senior product leadership (since 1994). Now applied to shipping production AI applications and helping SMB and mid-market businesses adopt AI.
 
 ### What I'm building
 
