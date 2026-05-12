@@ -6,6 +6,7 @@
 
 - **[local.pet](https://local.pet)** / **[local.dog](https://local.dog)** / **[vetsnear.me](https://vetsnear.me)** — multi-domain pet-services platform with NLP-driven enrichment, lead scoring, and scaffolded marketplace. Next.js · Postgres · Anthropic Claude · Apify · Google Places.
 - **[localvalue.co](https://localvalue.co)** — AI-orchestrated WordPress build pipeline. n8n + Anthropic Claude + Pexels + Twilio + Zoho. Turns a five-minute intake into a live, professionally-written website with no human in the build loop.
+- **Local-Value-UTM-Manager** - Multi-platform UTM Code interpretation to change the (Phone Number / Email Address / Content) on a website based on where the inbound URL came from (utm_source=google, utm_medium=cpc, utm_campaign=spring). Provides analytics and reporting. 
 - **AutoBlog** — LLM-driven WordPress blog publishing.
 - **AutoWebDev** — auto-generated websites from sparse intake.
 - **Deals Discovery** — AI prototype delivered to a private-label client.
